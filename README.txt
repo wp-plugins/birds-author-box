@@ -10,7 +10,7 @@ Requires at least: 3.9
 
 Tested up to: 4.1
 
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 License: GNU General Public License v2.0
 
@@ -101,6 +101,10 @@ Nothing yet!
 6. The Author Box - Third Tab.
 
 == Changelog ==
+
+= 1.0.2 =
+
+* Bug fixed: Retrieve Options variables
 
 = 1.0.1 =
 

@@ -4,14 +4,14 @@
  * The plugin bootstrap file
  *
  * @link:               http://www.tenbirdsflying.com/theme/birds-author-box/
- * @since               1.0.1
+ * @since               1.0.2
  * @package             Birds_Authorbox
  *
  * @wordpress-plugin
  * Plugin Name:         Birds Author Box
  * Plugin URI:          http://www.tenbirdsflying.com/theme/birds-author-box/
  * Description:         This plugin adds an author box below the post content. Developed to work with themes based on Zurb Foundation 5 framework.
- * Version:             1.0.1
+ * Version:             1.0.2
  * Author:              Frédéric Serva
  * Author URI:          http://www.tenbirdsflying.com/
  * License:             GPL-2.0+
